@@ -1,19 +1,19 @@
 faiss-cpu==1.10.0
-json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
-jsonpatch @ file:///C:/b/abs_4fdm88t7zi/croot/jsonpatch_1714483974578/work
+json5==0.9.6
+jsonpatch==1.33
 jsonpointer==2.1
-jsonschema @ file:///C:/b/abs_394_t6__xq/croot/jsonschema_1728486718320/work
-jsonschema-specifications @ file:///C:/Users/dev-admin/py312/jsonschema-specifications_1706803038066/work
-numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
-numpydoc @ file:///C:/b/abs_bbspp5l8vu/croot/numpydoc_1718279185573/work
-regex @ file:///C:/b/abs_5cm86yjgo3/croot/regex_1726670543261/work
+jsonschema==4.23.0
+jsonschema-specifications==2023.7.1
+numpy==1.26.4
+numpydoc==1.7.0
+regex==2024.9.11
 safetensors==0.5.3
-scikit-image @ file:///C:/b/abs_85dh_ywewv/croot/scikit-image_1726762076100/work
-scikit-learn @ file:///C:/b/abs_aajc9f7v6r/croot/scikit-learn_1722067652693/work/dist/scikit_learn-1.5.1-cp312-cp312-win_amd64.whl#sha256=96ed6defb86c154d2ff360afdbf0c37c33c4c729d4a15c9d8ada0b70fd817816
-scipy @ file:///C:/b/abs_efv75hqhju/croot/scipy_1717521501389/work/dist/scipy-1.13.1-cp312-cp312-win_amd64.whl#sha256=b29dba691773ea983857b31cad894f31623348583937b6f03783facfd7abc734
+scikit-image==0.24.0
+scikit-learn==1.5.1
+scipy==1.13.1
 sentence-transformers==3.4.1
-streamlit @ file:///C:/b/abs_84p_54gim8/croot/streamlit_1724335176234/work
+streamlit==1.37.1
 torch==2.6.0+cu124
 torchaudio==2.6.0+cu124
 torchvision==0.21.0+cu124
-transformers @ git+https://github.com/huggingface/transformers@
+transformers==4.50.0.dev0
